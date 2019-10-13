@@ -19,7 +19,7 @@ install pyaudio on Debian systems using:
 
 ```
 $ sudo apt-get update && sudo apt-get install python3-pyaudio portaudio19-dev
-$ git clone https://github.com/cyberfishtools/Network-to-audio.git
+$ git clone https://github.com/cyberfishtools/CFT--Packet-to-audio.git
 ```
 
 Create a symlink for handy command line usage:
