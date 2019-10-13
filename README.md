@@ -1,4 +1,4 @@
-# packet2audio
+# Network2audio
 
 
 A minimal python script to hoover up network traffic and spit it out the audio interface.
